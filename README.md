@@ -7,4 +7,4 @@
 ### [The data](https://github.com/Samsung-IT-Academy/stepik-dl-nlp/tree/master/datasets) (file BIO_recipe_dataset.txt) consist of 49847 sentences of recipes in [BIO-format](https://en.wikipedia.org/wiki/Inside–outside–beginning_(tagging)).
 
 ### Main result:
-![](https://user-images.githubusercontent.com/77696343/105843525-db3a1400-5fe8-11eb-9bed-ddee637ad1ed.png)
+![](https://user-images.githubusercontent.com/77696343/105843821-44218c00-5fe9-11eb-950b-0f63875aabc9.png)
